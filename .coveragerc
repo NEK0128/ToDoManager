@@ -1,0 +1,3 @@
+[run]
+source = todomanager
+omit = todomanager/test*
